@@ -1,0 +1,12 @@
+INDEX VERSION 1.126+/afs/cats.ucsc.edu/users/x/kpscanlo/cs12a/.metadata/.plugins/org.eclipse.jdt.core
+1745706878.index
+1734708965.index
+143205534.index
+394035969.index
+118774595.index
+791340016.index
+596742087.index
+2328282269.index
+3865234311.index
+2346776502.index
+4195661662.index
